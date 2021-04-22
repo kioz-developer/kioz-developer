@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
-You can find some of my projects [here](https://github.com/kioz-developer?tab=repositories) however you can look at some published.
+You can find some of my projects [here](https://github.com/kioz-developer?tab=repositories).
 
-### [Latitude vs Weather](https://kioz-developer.github.io/web-design-challenge/) 
-
-### [Forecasting Real State](https://kioz-developer.github.io/web-design-challenge/) 
+However you can look at some published:
+1. [Latitude vs Weather](https://kioz-developer.github.io/web-design-challenge/) 
+2. [Forecasting Real State](https://github.com/lamb-jack/RealEstateForecasting/blob/main/Real%20Estate%20Forecasting%20.pdf) 

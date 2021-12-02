@@ -10,10 +10,10 @@ Roles: Data Engineer, Data Analyst, Backend, Frontend
 Project URL: [https://tinyurl.com/uay9ufcz](https://tinyurl.com/uay9ufcz)
 
 
-2. [Latitude vs Weather](https://kioz-developer.github.io/web-design-challenge/) 
+2. [Correlation between Latitude and Weather](https://tinyurl.com/2p9xd2nt) 
 This Data Analyst shows what relation exists between weather and latitude, using pandas and matplotlib for the analysis, and JavaScript, HTML and CSS to publish it.
 Roles: Data Analyst, Frontend
-Project URL: [https://tinyurl.com/52brarvv](https://tinyurl.com/52brarvv)
+Project URL: [https://tinyurl.com/2p9xd2nt](https://tinyurl.com/2p9xd2nt)
 
 3. [Correlations Discovered Between Health Risks and Age, Income](https://kioz-developer.github.io/d3-challenge/index.html)
 This project helps to discover the correlation between some health variables and social demographic variables using D3, JavaScript, HTML and CSS.
